@@ -1,0 +1,15 @@
+# Requirements for Skincare Routine Support (Skill #130)
+# Python dependencies for tools/knowledge_updater.py
+
+# Optional: for automated knowledge updates via crawl4ai
+# Install with: pip install -r requirements.txt
+
+# Web crawling (optional)
+crawl4ai>=0.2.0  # For automated knowledge base updates
+
+# Standard library alternatives (no installation needed):
+# - urllib.request (HTTP fetching)
+# - re (regular expressions)
+# - hashlib (hash generation)
+# - logging (logging)
+# - json, pathlib, datetime, argparse (standard library)
