@@ -1,4 +1,4 @@
-# Skincare Routine Support (Skill #130)
+# Skincare Routine Support
 
 > Builds and evaluates personalized skincare routines by skin type and concern, scoring ingredient suitability and safety against dermatology evidence.
 
